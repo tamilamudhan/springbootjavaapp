@@ -1,3 +1,3 @@
 #!/bin/bash
 
-kill -f 'java -jar'
+pkill -f 'java -jar'
